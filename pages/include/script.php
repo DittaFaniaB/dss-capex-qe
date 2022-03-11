@@ -1,5 +1,5 @@
 <?php
-$var_url = "http://localhost/ditta";
+$var_url = "http://localhost/dss-capex-qe";
 echo
 '<script src="'.$var_url.'/assets/vendors/js/vendor.bundle.base.js"></script>
 <script src="'.$var_url.'/assets/js/off-canvas.js"></script>

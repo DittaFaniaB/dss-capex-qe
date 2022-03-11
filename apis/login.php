@@ -1,8 +1,8 @@
 <?php 
 //test
 session_start();
-include_once($_SERVER['DOCUMENT_ROOT']."/ditta/databases/Db.php");
-require_once($_SERVER['DOCUMENT_ROOT']."/ditta/controllers/AuthController.php");
+include_once($_SERVER['DOCUMENT_ROOT']."/dss-capex-qe/databases/Db.php");
+require_once($_SERVER['DOCUMENT_ROOT']."/dss-capex-qe/controllers/AuthController.php");
 
 if(isset($_POST["username"]) && isset($_POST["password"])){
     $username = $_POST["username"];

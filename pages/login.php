@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <?php include_once($_SERVER['DOCUMENT_ROOT']."/ditta/pages/include/style.php"); ?>
+    <?php include_once($_SERVER['DOCUMENT_ROOT']."/dss-capex-qe/pages/include/style.php"); ?>
     <title>CAPEX QE</title>
 </head>
 
@@ -67,6 +67,6 @@
         </div>
         <!-- page-body-wrapper ends -->
     </div>
-    <?php include_once($_SERVER['DOCUMENT_ROOT']."/ditta/pages/include/script.php"); ?>
+    <?php include_once($_SERVER['DOCUMENT_ROOT']."/dss-capex-qe/pages/include/script.php"); ?>
 </body>
 </html>

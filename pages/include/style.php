@@ -1,5 +1,5 @@
 <?php
-$var_url = "http://localhost/ditta";
+$var_url = "http://localhost/dss-capex-qe";
 echo '
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

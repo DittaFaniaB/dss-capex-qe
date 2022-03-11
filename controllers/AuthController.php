@@ -9,7 +9,7 @@ class AuthController {
 
     function login($username, $password)
     {
-        include_once($_SERVER["DOCUMENT_ROOT"]."/ditta/models/User.php");
+        include_once($_SERVER["DOCUMENT_ROOT"]."/dss-capex-qe/models/User.php");
         $user = new User($this->conn);
         $query = $user::where("*", "nik = '".$username."'");
         $user = pg_fetch_assoc($query);

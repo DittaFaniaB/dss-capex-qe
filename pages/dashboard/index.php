@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <?php include_once($_SERVER['DOCUMENT_ROOT'] . "/ditta/pages/include/style.php"); ?>
+    <?php include_once($_SERVER['DOCUMENT_ROOT'] . "/dss-capex-qe/pages/include/style.php"); ?>
     <title>CAPEX QE - Dashboard</title>
 </head>
 
@@ -716,7 +716,7 @@
     <!-- container-scroller -->
 
     <!-- base:js -->
-    <?php include_once($_SERVER['DOCUMENT_ROOT'] . "/ditta/pages/include/script.php"); ?>
+    <?php include_once($_SERVER['DOCUMENT_ROOT'] . "/dss-capex-qe/pages/include/script.php"); ?>
     <script src="<?php echo $var_url; ?>'/assets/vendors/progressbar.js/progressbar.min.js"></script>
     <script src="'<?php echo $var_url; ?>'/assets/vendors/chart.js/Chart.min.js"></script>
     <script src="'<?php echo $var_url; ?>'/assets/js/dashboard.js"></script>
