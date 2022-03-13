@@ -21,9 +21,9 @@
                                 <div class="form-group">
                                     <label for="exampleInputEmail">Username</label>
                                     <div class="input-group">
-                                        <div class="input-group-prepend bg-transparent">
+                                        <div class="input-group-prepend bg-transparent h-100">
                                             <span class="input-group-text bg-transparent border-right-0">
-                                                <i class="typcn typcn-user-outline text-primary"></i>
+                                                <i class="typcn typcn-user-outline text-primary" style="font-size: 18px;"></i>
                                             </span>
                                         </div>
                                         <input name="username" type="text" class="form-control form-control-lg border-left-0" id="exampleInputEmail" placeholder="Username">
@@ -34,7 +34,7 @@
                                     <div class="input-group">
                                         <div class="input-group-prepend bg-transparent">
                                             <span class="input-group-text bg-transparent border-right-0">
-                                                <i class="typcn typcn-lock-closed-outline text-primary"></i>
+                                                <i class="typcn typcn-lock-closed-outline text-primary" style="font-size: 18px;"></i>
                                             </span>
                                         </div>
                                         <input name="password" type="password" class="form-control form-control-lg border-left-0" id="exampleInputPassword" placeholder="Password">

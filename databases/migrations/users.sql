@@ -1,1 +1,0 @@
-INSERT INTO "users" ("id", "nik", "password", "name", "witel_id", "status", "last_login_at", "last_ip") VALUES (1, '123456', '$2a$12$0ItN7bJA2qODl8QuTWd.4.yvthYnhWXvMQhg6cl.pyBPm2ldG3en6', 'Witel Denpasar', 1, 'ACTIVE', NULL, NULL);

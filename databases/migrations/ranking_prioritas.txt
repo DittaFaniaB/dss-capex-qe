@@ -1,0 +1,1 @@
+"id"	"id_alternatif"	"id_kriteria"	"nilai_ranking"	"bobot_normalisasi"	"nilai_normalisasi"
